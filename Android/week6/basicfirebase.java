@@ -69,20 +69,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-    Button button2 = (Button) findViewById(R.id.button2);
-//        button2.setOnClickListener(new View.OnClickListener(){
-//            public void onClick(View view){
-//                DataSnapshot datasnaphot = DataSnapshot();
-//                if (datasnaphot.getValue().toString().equals(text.getText().toString())){
-//                    Toast.makeText(MainActivity.this, "Conected to firebase!", Toast.LENGTH_SHORT).show();
-//                }
-//            }
-//            );
-//    public void checky(View view) {
-//        if (true) {
-//            Toast.makeText(MainActivity.this, "Conected to firebase!", Toast.LENGTH_SHORT).show();
-//        }
-//        Toast.makeText(MainActivity.this, "Error! Not Connected.", Toast.LENGTH_SHORT).show();
+
     }
 }
 
